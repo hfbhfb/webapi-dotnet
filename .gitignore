@@ -1,3 +1,160 @@
-bin
-Debug
-Release
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+.vscode/
+.vscode-test/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.temp
+*.tmp
+
+# Office Temp Files
+~$*
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# IIS
+_IISExpress/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+.idea/*/workspace.xml
+.idea/*/tasks.xml
+.idea/*/usage.statistics.xml
+.idea/*/dictionaries
+.idea/*/shelf
+.idea/*/workspace.xml
+.idea/*/tasks.xml
+.idea/*/usage.statistics.xml
+.idea/*/contentModel.xml
+.idea/*/modules.xml
+.idea/*/inspectionProfiles
+.idea/*/sonarlint
+.idea/*/shelf
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+.idea_modules/
+.idea/*/workspace.xml
+.idea/*/tasks.xml
+.idea/*/usage.statistics.xml
+.idea/*/dictionaries
+.idea/*/shelf
+.idea/*/workspace.xml
+.idea/*/tasks.xml
+.idea/*/usage.statistics.xml
+.idea/*/contentModel.xml
+.idea/*/modules.xml
+.idea/*/inspectionProfiles
+.idea/*/sonarlint
+.idea/*/shelf
+
+# Mac OS files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders to ignore
+**/bin
+**/obj
+**/TestResults
+**/TestResults/"
+
+# Auto-generated files from Visual Studio
+Generated\_Code/
+
+# R environment
+.Rproj.user/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python environment
+__pycache__/
+
+# Python Byte code
+*.py[cod]
+
+# virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Package management
+*.pypm
+*.pyo
+*.pyd
+*.eggs
+*.egg-info
+eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Logs
+*.log
+
+# Test Results
+.TestResults/
+.TestResults
+
+# Coverage
+.coverage
+
+# OS generated files
+._*
